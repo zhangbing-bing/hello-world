@@ -1,2 +1,3 @@
 # hello-world
-this is my first GayHub, and hello GitHub.
+Hi,Humans!
+I will learn how to use GitHub, and I hope making friends in the family.
